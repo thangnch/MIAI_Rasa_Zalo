@@ -1,7 +1,7 @@
 # MIAI_Rasa_Zalo
 Demo of connecting Rasa with Zalo
 
-Article link:  https://www.miai.vn/2021/10/07/gan-nhan-du-lieu-anh-tu-dong-voi-pretrain-model/
+Video link:  https://youtu.be/4PQH3hbb_3c
 
 #MìAI <br>
 Fanpage: http://facebook.com/miaiblog<br>
